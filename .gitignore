@@ -16,3 +16,5 @@ color_naming.egg-info
 .idea/img_features.iml
 
 .idea/vcs.xml
+
+*egg-info/*
