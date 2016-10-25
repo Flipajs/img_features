@@ -1,1 +1,2 @@
-from color_naming import im2colors
+from utils import feature_descriptor
+from descriptors import colornames_descriptor

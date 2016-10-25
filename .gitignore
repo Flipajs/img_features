@@ -12,3 +12,7 @@
 color_naming.egg-info
 
 *.pyc
+
+.idea/img_features.iml
+
+.idea/vcs.xml

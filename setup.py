@@ -1,14 +1,13 @@
 from setuptools import setup
 
-setup(name='color_naming',
+setup(name='img_features',
       version='0.1',
       description='Implementation of ',
       url='',
       author='Filip Naise',
       author_email='filip@naiser.cz',
       license='MIT',
-      packages=['color_naming'],
-      install_requires=['numpy',],
+      packages=['img_features'],
+      install_requires=['numpy', 'color_naming'],
       include_package_data=True,
-      package_data={'color_naming': ['data/w2c.pkl']},
       zip_safe=False)
